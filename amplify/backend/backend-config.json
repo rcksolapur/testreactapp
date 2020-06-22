@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"reactamplifyreachouta73967e4": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
